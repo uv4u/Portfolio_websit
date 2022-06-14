@@ -1,6 +1,6 @@
 # Portfolio_websit
 Created with CodeSandbox
-live @ https://csb-680qf0.netlify.app/
+live @ https://csb-w93ro0.netlify.app/
 
 A fully functional portfolio website on ReactJS.
 It has an email functionality through which anyone can send you an email from the "Contact me" section. 
