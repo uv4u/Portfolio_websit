@@ -11,7 +11,7 @@ export default function Education() {
             </span>
             {""}
             <span className="university-degree">
-              Bachelors of Technology in Electonics and Communication{" "}
+              Bachelors of Technology in Electronics and Communication{" "}
             </span>
           </div>{" "}
           {""}
